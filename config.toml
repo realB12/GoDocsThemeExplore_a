@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "/"
 title = GoDocs Theme epxloration"
 theme = "godocs-1"
 # google analytics
