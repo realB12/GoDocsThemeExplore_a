@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/godocs/style-1/"
-title = "Hugo documentation theme"
+baseURL = ""
+title = GoDocs Theme epxloration"
 theme = "godocs-1"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
