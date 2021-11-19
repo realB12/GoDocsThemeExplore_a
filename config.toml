@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "godocs-theme-explore-a.netlify.app/"
+baseURL = "/"
 title = "GoDocs Theme epxloration"
 theme = "godocs-1"
 # google analytics
